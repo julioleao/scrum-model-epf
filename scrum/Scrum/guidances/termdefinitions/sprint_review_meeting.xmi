@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-hbgtBeEVvgklEJEe87Vp4g" name=",_wZySUESSEdyDx7cbCULuLg" guid="-hbgtBeEVvgklEJEe87Vp4g" changeDate="2019-09-24T14:25:16.328-0300">
+  <mainDescription>&lt;p>&#xD;
+    Ao final do Sprint, o Scrum Team irá mostrar o progresso realizado durante o Sprint ao Product Owner e os principais&#xD;
+    Stakeholders. Apenas os Itens do Product Backlog que foram totalmente completados são mostradas na reunião de&#xD;
+    revisão.&lt;br />&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

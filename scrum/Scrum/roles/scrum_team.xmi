@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-u_0D0nwGoZhpANLeqrq14A" name="new_role,_O65KUOF6Edyp34pwdTOSVQ" guid="-u_0D0nwGoZhpANLeqrq14A" changeDate="2019-09-24T14:02:47.097-0300">
+  <mainDescription>&lt;p>&#xD;
+    O Scrum Team:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        É multifuncional, com sete (mais ou menos dois) membros;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Seleciona o objetivo do Sprint (Sprint Goal) e especifica os produtos de trabalho necessários;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Tem a liberdade de fazer qualquer coisa dentro das diretrizes do projeto para alcançar o objetivo do Sprint;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Auto organiza-se e organiza suas atividades; e&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Apresenta os produtos de trabalho ao Product Owner.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

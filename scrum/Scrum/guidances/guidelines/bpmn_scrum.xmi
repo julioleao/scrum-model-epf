@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Y9MccMt6UOaGJFtQWN-pVw" name="new_guideline,_1fvvoMq1EemtS8Y1qYM6NA" guid="-Y9MccMt6UOaGJFtQWN-pVw" changeDate="2019-09-24T14:29:46.305-0300">
+  <mainDescription>&lt;p>&#xD;
+    O Business Process Model and Notation (BPMN) (em português Modelo e Notação de Processos de Negócio), anteriormente&#xD;
+    conhecido como Business Process Modeling Notation, (em português Notação de Modelagem de Processos de Negócio) é uma&#xD;
+    notação da metodologia de gerenciamento de processos de negócio e trata-se de uma série de ícones padrões para o&#xD;
+    desenho de processos, o que facilita o entendimento do usuário.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Nosso modelo de Scrum foi modificado visando a entrega a curto prazo em uma pequena equipe de desenvolvimento. Ficando&#xD;
+    a reunião da Sprint com duração de 3 horas, a reunião&amp;nbsp;diária de 15 minutos, o Sprint com duração de 7 dias,&#xD;
+    revisão da Sprint com duração de 1 hora e 30 minutos e retrospectiva do Sprint com 30 minutos. O ciclo volta ao início&#xD;
+    caso não tenha finalizado o projeto.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;span id=&quot;docs-internal-guid-f4f7a1dd-7fff-0495-fb55-16d1955a2e21&quot;&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;OVERFLOW: hidden; BORDER-TOP: medium none; HEIGHT: 518px; BORDER-RIGHT: medium none; WIDTH: 968px; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; DISPLAY: inline-block&quot;>&#xD;
+    &lt;img style=&quot;MARGIN-TOP: 0px; MARGIN-LEFT: 0px&quot;&#xD;
+    src=&quot;https://lh4.googleusercontent.com/zUMVSMVWHdiTDIXyzoRghygnbaKxYd-WSMwfImZxt8c6vyh935g_CsHY4RfRoxHPrXKIExn-qwmfhLbVjcSyR6cGBDeR3BNihnqALumcW3RD9s2fpVKQEQWU63yPBssuw_PrIp5x&quot;&#xD;
+     width=&quot;968&quot; height=&quot;518&quot; />&lt;/span>&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

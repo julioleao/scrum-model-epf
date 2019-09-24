@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-xohW6akCXeAm21kFxbyPgA" name="Retrospectiva do Sprint,_sKJ9AOF-Edyp34pwdTOSVQ" guid="-xohW6akCXeAm21kFxbyPgA" changeDate="2019-09-24T14:10:01.635-0300">
+  <mainDescription>&lt;p>A Retrospectiva do Sprint é uma oportunidade para o Scrum Team discutir o que está dando certo e o que não está, e consentir em ações para mudança. Uma abordagem adotada é que todo o time se reúna e discuta o que ele gostaria de: &lt;/p>
+
+&lt;ul>
+
+    &lt;li>Começar a fazer &lt;/li>
+
+    &lt;li>Parar de fazer &lt;/li>
+
+    &lt;li>Continuar fazendo &lt;/li>
+
+&lt;/ul></mainDescription>
+  <purpose>A Retrospectiva do Sprint é o mecanismo principal para a visibilidade que o Scrum proporciona a áreas que potencialmente necessitam de melhorias, transformando-as em resultados.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

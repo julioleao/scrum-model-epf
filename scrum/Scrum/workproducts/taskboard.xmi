@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-JGaSKq8Cd3WrAqkPLTUUGg" name="new_artifact,_rU4H4F8fEd22Gu98eFOlrQ" guid="-JGaSKq8Cd3WrAqkPLTUUGg" changeDate="2019-09-24T14:01:35.521-0300">
+  <mainDescription>&lt;p>&#xD;
+    O Quadro de Tarefas mostra todo o trabalho que o time está desenvolvendo durante o Sprint. Ele é atualizado&#xD;
+    continuamente no decorrer do Sprint - se alguém pensa em alguma nova tarefa, eles a escrevem em um novo cartão e&#xD;
+    colocam-no no quadro. Antes ou durante um &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../Scrum/tasks/Reuniao diaria_C8FB7908.html&quot; guid=&quot;_oSM0AOF-Edyp34pwdTOSVQ&quot;>Reuniao diaria&lt;/a>, as&#xD;
+    estimativas são alteradas (para mais ou menos) e os cartões são movidos no quadro.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    O Quadro de Tarefas pode se parecer assim:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;span class=&quot;articleImage&quot;>&lt;a&#xD;
+    href=&quot;http://www.mountaingoatsoftware.com/system/hidden_asset/file/29/MockedTaskBoard.jpg&quot;>&lt;/a>&lt;/span>&lt;img&#xD;
+    style=&quot;HEIGHT: 496px; WIDTH: 988px&quot;&#xD;
+    src=&quot;https://lh5.googleusercontent.com/HsFvQnJ2vvmlkYRyHR0sIIlGcZuD1ve2XIk1YAsC-voVTiz8A6OfPqC_net9URRR-jGLqcMW2CnPyvps0RhiIrAx6EtTn2eHJD4nGg-Wgzt61iqLB9NK7JueYp-PiZLjC6QvKIpZ&quot;&#xD;
+     width=&quot;1354&quot; height=&quot;641&quot; />&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;span class=&quot;articleImage&quot;>&lt;br />&#xD;
+    &lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Cada linha no Quadro de Tarefas é um item do Product Backlog (neste exemplo, estórias). Durante a &lt;a&#xD;
+    class=&quot;elementLinkWithUserText&quot; href=&quot;./../../Scrum/tasks/Reuniao de planejamento da Sprint_9F0B8F28.html&quot;&#xD;
+    guid=&quot;_4gCKAOF9Edyp34pwdTOSVQ&quot;>Reunião Sprint Planning&lt;/a> o time define os itens do Product Backlog que eles conseguem&#xD;
+    concluir durante o próximo Sprint. Cada item do Product Backlog é desdobrado em vários itens de &lt;a&#xD;
+    class=&quot;elementLinkWithUserText&quot; href=&quot;./../../Scrum/workproducts/sprint_backlog_7A5B8A37.html&quot;&#xD;
+    guid=&quot;_Q5Ki8OF8Edyp34pwdTOSVQ&quot;>Sprint Backlog&lt;/a>. Cada um deles é representado por um cartão de tarefa que é colocado&#xD;
+    no Quadro de Tarefas. Cada cartão de tarefa é colocado inicialmente no Quadro de Tarefas na coluna &quot;A fazer&quot;. As&#xD;
+    colunas são:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;b>A fazer&lt;/b> – Nesta coluna ficam todos os cartões que não estão finalizados ou em andamento.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;b>Em andamento&lt;/b> – Qualquer cartão que é trabalhado fica nesta coluna. O programador que decide trabalhar nele,&#xD;
+        move-o quando se está pronto para iniciar a tarefa. Isto acontece frequentemente durante a Reunião Daily Scrum,&#xD;
+        quando alguém diz &quot;Eu irei trabalhar em boojum hoje&quot;.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;b>Concluído&lt;/b> – Os cartões são empilhados nesta coluna quando estão concluídos. Eles são removidos no final do&#xD;
+        Sprint.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+  <purpose>Comunicar, de modo tangível, o progresso para os membros do time e outros interessados.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

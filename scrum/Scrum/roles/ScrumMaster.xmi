@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-yuXxE_O0V_WcpgWeUmX8fQ" name="ScrumMaster,_Bw-twOF6Edyp34pwdTOSVQ" guid="-yuXxE_O0V_WcpgWeUmX8fQ" changeDate="2019-09-24T14:07:18.619-0300">
+  <mainDescription>&lt;p>O ScrumMaster: &lt;/p>
+
+&lt;ul>
+
+    &lt;li>Representa a gestão do projecto (ligação); &lt;/li>
+
+    &lt;li>É responsável por difundir os valores do Scrum e suas práticas; &lt;/li>
+
+    &lt;li>Executa as reuniões Daily Scrum; &lt;/li>
+
+    &lt;li>Remove os impedimentos; &lt;/li>
+
+    &lt;li>Protege o time contra interferências externas; &lt;/li>
+
+    &lt;li>Assegura que o time esteja totalmente funcional e produtivo; e &lt;/li>
+
+    &lt;li>Possibilita uma cooperação estreita entre todos os papéis e funções. &lt;/li>
+
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

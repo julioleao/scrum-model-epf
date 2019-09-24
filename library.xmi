@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_7buIMMqcEemtS8Y1qYM6NA" guid="_7buIMMqcEemtS8Y1qYM6NA">
+    <resourceDescriptors xmi:id="_7buvQMqcEemtS8Y1qYM6NA" id="_7bs6EMqcEemtS8Y1qYM6NA" uri=""/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodLibrary xmi:id="_7bs6EMqcEemtS8Y1qYM6NA" name="scrum_library_PT_1.5_20080820" guid="_7bs6EMqcEemtS8Y1qYM6NA"/>
+</xmi:XMI>

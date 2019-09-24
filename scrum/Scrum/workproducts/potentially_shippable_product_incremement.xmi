@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-r4CP_1w3uk0ClgSnUrm80w" name="new_artifact,__uNYkPVgEdyMdecrgpMbRg" guid="-r4CP_1w3uk0ClgSnUrm80w" changeDate="2019-09-24T14:12:51.755-0300">
+  <mainDescription>&lt;p>No Scrum é necessário que em cada Sprint seja entregue um incremento de produto potencialmente utilizável. Este incremento deve consistir de um arquivo executável gerado a partir de código exaustivamente testado e documentação dos procedimentos operacionais das funcionalidades, seja na forma de &quot;Ajuda&quot; ou &quot;Documentação de Usuário&quot;. &lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

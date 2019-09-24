@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-v5-z0Dm_JF0P2xtKd0FDrA" name="new_artifact,_OZIPIOF8Edyp34pwdTOSVQ" guid="-v5-z0Dm_JF0P2xtKd0FDrA" changeDate="2019-09-24T14:13:43.934-0300">
+  <mainDescription>&lt;p>&#xD;
+    Quando um projeto é iniciado não há nenhum esforço abrangente, que demanda muito tempo, para escrever todas as tarefas&#xD;
+    ou requisitos previsíveis. Normalmente, tudo o que é óbvio consta do projeto, o que, quase sempre, é mais que&#xD;
+    suficiente para o primeiro Sprint. A partir daí, o Product Backlog deverá crescer e mudar na medida em que se conhece o&#xD;
+    produto e os clientes.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Durante a reunião &lt;a class=&quot;elementLink&quot; href=&quot;./../../Scrum/tasks/Reuniao de planejamento da Sprint_9F0B8F28.html&quot;&#xD;
+    guid=&quot;_4gCKAOF9Edyp34pwdTOSVQ&quot;>Reuniao de planejamento da Sprint&lt;/a>, o &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../Scrum/roles/product_owner_10E7BD3.html&quot; guid=&quot;_QcnRMOF5Edyp34pwdTOSVQ&quot;>Product Owner&lt;/a> prioriza os&#xD;
+    itens do Product Backlog e os descreve ao Scrum Team. O time, então, determina quais itens ele conseguirá concluir no&#xD;
+    próximo Sprint e passa estes itens do Product Backlog para o &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../Scrum/workproducts/sprint_backlog_7A5B8A37.html&quot; guid=&quot;_Q5Ki8OF8Edyp34pwdTOSVQ&quot;>Sprint Backlog&lt;/a>. Ao&#xD;
+    fazê-lo, o time desdobra cada item em uma ou várias tarefas de Sprint Backlog para que seja possível um&#xD;
+    compartilhamento de atividades mais efetivo. Conceitualmente, o time inicia do topo da lista priorizada de Product&#xD;
+    Backlog e desenha uma linha logo abaixo do item que o time considerar ser o último possível de se concluir durante o&#xD;
+    Sprint. Na prática, não é incomum ver um time selecionar, por exemplo, os cinco itens mais importantes e dois itens que&#xD;
+    estão abaixo na lista, mas associados aos cinco iniciais.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Itens do Product Backlog podem ser tarefas técnicas (&quot;Refatorar a classe Login para disparar uma exceção&quot;) ou mais&#xD;
+    focados no usuário (&quot;Permitir voltar na tela de instalação&quot;). Uma perspectiva muito interessante é descrever os itens&#xD;
+    do Product Backlog como &quot;User Stories do Extreme Programming&quot;.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    O Product Backlog pode ser mantido em uma planilha Excel. Um exemplo de um projeto real é apresentado abaixo. Essa&#xD;
+    planilha Excel mostra cada item do Product Backlog com uma priorização genérica (Muito Alta, Alta, etc.) feita pelo&#xD;
+    Product Owner. As estimativas são realizadas pelos desenvolvedores, mas é notório que são muito imprecisas e somente&#xD;
+    são utilizadas para uma grosseira alocação de tarefas nos vários Sprints.&#xD;
+&lt;/p>&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>
