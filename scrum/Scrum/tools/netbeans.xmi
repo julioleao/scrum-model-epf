@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Sk-Kxmw4GAxVQ-9NjLtblQ" name="new_tool,_b1e3QOC2Eemze6-SS1p82Q" guid="-Sk-Kxmw4GAxVQ-9NjLtblQ" changeDate="2019-09-26T20:36:41.697-0300">
+  <mainDescription>Netbeans será a nossa IDE utilizada para desenvolvimento em java.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -29,6 +29,9 @@
     <resourceDescriptors xmi:id="_XrI2QV8hEd22Gu98eFOlrQ" id="-JGaSKq8Cd3WrAqkPLTUUGg" uri="workproducts/taskboard.xmi"/>
     <resourceDescriptors xmi:id="_bd0M4Mq3EemtS8Y1qYM6NA" id="-Y9MccMt6UOaGJFtQWN-pVw" uri="guidances/guidelines/bpmn_scrum.xmi"/>
     <resourceDescriptors xmi:id="_EPq3wN7uEem1Xq0G0c0Etg" id="-mLzJeXs-dRHlJfYjbu-sLg" uri="tasks/realizar_desenvolvimento.xmi"/>
+    <resourceDescriptors xmi:id="_k0gkkOCyEemze6-SS1p82Q" id="-4fTavxlPYaWZEc5R2_RLPg" uri="guidances/toolmentors/ferramenta_de_versionamento.xmi"/>
+    <resourceDescriptors xmi:id="_2eKi4OCyEemze6-SS1p82Q" id="-O_8IEBkhdGonw_lO_b2q3w" uri="tools/git.xmi"/>
+    <resourceDescriptors xmi:id="_mBrlgOC2Eemze6-SS1p82Q" id="-Sk-Kxmw4GAxVQ-9NjLtblQ" uri="tools/netbeans.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_6Ab_EOF4Edyp34pwdTOSVQ" name="Scrum" guid="_6Ab_EOF4Edyp34pwdTOSVQ" briefDescription="Plug-In Scrum" authors="Mike Cohn, Ken Clyne, Claude Aubry et al" changeDate="2008-07-30T14:49:30.453-0300">
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6Ab_EeF4Edyp34pwdTOSVQ" name="Content" guid="_6Ab_EeF4Edyp34pwdTOSVQ">
@@ -43,13 +46,22 @@
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6Ab_FuF4Edyp34pwdTOSVQ" name="WP Types" guid="_6Ab_FuF4Edyp34pwdTOSVQ">
           <contentElements xsi:type="org.eclipse.epf.uma:WorkProductType" xmi:id="_IAabwOGLEdyp34pwdTOSVQ" name="scrum_work_products" guid="_IAabwOGLEdyp34pwdTOSVQ" presentationName="Produtos de Trabalho Scrum" workProducts="__uNYkPVgEdyMdecrgpMbRg _OZIPIOF8Edyp34pwdTOSVQ _rU4H4F8fEd22Gu98eFOlrQ"/>
         </childPackages>
-        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6Ab_F-F4Edyp34pwdTOSVQ" name="Tools" guid="_6Ab_F-F4Edyp34pwdTOSVQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6Ab_F-F4Edyp34pwdTOSVQ" name="Tools" guid="_6Ab_F-F4Edyp34pwdTOSVQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Tool" xmi:id="_lPU4UOCyEemze6-SS1p82Q" name="git" guid="_lPU4UOCyEemze6-SS1p82Q" presentationName="Git" toolMentors="_WEaNUOCyEemze6-SS1p82Q">
+            <methodElementProperty xmi:id="_2eer8OCyEemze6-SS1p82Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-O_8IEBkhdGonw_lO_b2q3w" href="uma://-O_8IEBkhdGonw_lO_b2q3w#-O_8IEBkhdGonw_lO_b2q3w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Tool" xmi:id="_b1e3QOC2Eemze6-SS1p82Q" name="netbeans" guid="_b1e3QOC2Eemze6-SS1p82Q" presentationName="Netbeans" toolMentors="_SQB_8OC2Eemze6-SS1p82Q">
+            <methodElementProperty xmi:id="_pDl3UOC2Eemze6-SS1p82Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-Sk-Kxmw4GAxVQ-9NjLtblQ" href="uma://-Sk-Kxmw4GAxVQ-9NjLtblQ#-Sk-Kxmw4GAxVQ-9NjLtblQ"/>
+          </contentElements>
+        </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6Ab_GOF4Edyp34pwdTOSVQ" name="StandardCategories" guid="_6Ab_GOF4Edyp34pwdTOSVQ"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6Ab_GeF4Edyp34pwdTOSVQ" name="CustomCategories" guid="_6Ab_GeF4Edyp34pwdTOSVQ">
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6Ab_GuF4Edyp34pwdTOSVQ" name="Hidden" guid="_6Ab_GuF4Edyp34pwdTOSVQ">
             <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_6Ab_G-F4Edyp34pwdTOSVQ" name="Custom Categories" guid="_6Ab_G-F4Edyp34pwdTOSVQ" categorizedElements="_Om8IAOGEEdyp34pwdTOSVQ"/>
           </childPackages>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_Om8IAOGEEdyp34pwdTOSVQ" name="scrum_overview" guid="_Om8IAOGEEdyp34pwdTOSVQ" presentationName="Visão Geral do Scrum" categorizedElements="_lC260PVhEdyMdecrgpMbRg _hUIKcOGFEdyp34pwdTOSVQ _IAabwOGLEdyp34pwdTOSVQ _4tsR4OGFEdyp34pwdTOSVQ _nrjnAMq1EemtS8Y1qYM6NA">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_Om8IAOGEEdyp34pwdTOSVQ" name="scrum_overview" guid="_Om8IAOGEEdyp34pwdTOSVQ" presentationName="Visão Geral do Scrum" categorizedElements="_lC260PVhEdyMdecrgpMbRg _hUIKcOGFEdyp34pwdTOSVQ _IAabwOGLEdyp34pwdTOSVQ _4tsR4OGFEdyp34pwdTOSVQ _nrjnAMq1EemtS8Y1qYM6NA _P5q-0OCxEemze6-SS1p82Q">
             <methodElementProperty xmi:id="_ZMWAcOGEEdyp34pwdTOSVQ" name="PUBLISH_CATEGORY" value="true"/>
             <presentation xmi:id="-OUAVEKu-MpijImO-oy53Rg" href="uma://-OUAVEKu-MpijImO-oy53Rg#-OUAVEKu-MpijImO-oy53Rg"/>
           </contentElements>
@@ -58,6 +70,9 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_ko9BUN7wEem1Xq0G0c0Etg" name="definies" guid="_ko9BUN7wEem1Xq0G0c0Etg" presentationName="Definições" categorizedElements="_wzGykF5YEd22Gu98eFOlrQ _veyn1F5UEd22Gu98eFOlrQ _veyn1V5UEd22Gu98eFOlrQ _veyn1l5UEd22Gu98eFOlrQ _veyn115UEd22Gu98eFOlrQ _veyn2F5UEd22Gu98eFOlrQ _veyn2V5UEd22Gu98eFOlrQ _veyn2l5UEd22Gu98eFOlrQ _veyn3V5UEd22Gu98eFOlrQ _veyn3l5UEd22Gu98eFOlrQ _veyn315UEd22Gu98eFOlrQ _veyn4F5UEd22Gu98eFOlrQ">
             <methodElementProperty xmi:id="_4AonsN7wEem1Xq0G0c0Etg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_P5q-0OCxEemze6-SS1p82Q" name="ferramentas" guid="_P5q-0OCxEemze6-SS1p82Q" presentationName="Ferramentas" shapeicon="customcategories/resources/tool.gif" nodeicon="customcategories/resources/print.gif" categorizedElements="_WEaNUOCyEemze6-SS1p82Q">
+            <methodElementProperty xmi:id="_hWroQOCxEemze6-SS1p82Q" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
       </childPackages>
@@ -166,9 +181,16 @@
             <methodElementProperty xmi:id="_bdxJkMq3EemtS8Y1qYM6NA" name="me_edited" value="true"/>
             <presentation xmi:id="-Y9MccMt6UOaGJFtQWN-pVw" href="uma://-Y9MccMt6UOaGJFtQWN-pVw#-Y9MccMt6UOaGJFtQWN-pVw"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_OPArMN7tEem1Xq0G0c0Etg" name="realizar_desenvolvimento" guid="_OPArMN7tEem1Xq0G0c0Etg" presentationName="Realizar Desenvolvimento" briefDescription="O desenvolvimento ocorre após a reunião diária." performedBy="_O65KUOF6Edyp34pwdTOSVQ" mandatoryInput="_Q5Ki8OF8Edyp34pwdTOSVQ" output="__uNYkPVgEdyMdecrgpMbRg" additionallyPerformedBy="_Bw-twOF6Edyp34pwdTOSVQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_OPArMN7tEem1Xq0G0c0Etg" name="realizar_desenvolvimento" guid="_OPArMN7tEem1Xq0G0c0Etg" presentationName="Realizar Desenvolvimento" briefDescription="O desenvolvimento ocorre após a reunião diária." performedBy="_O65KUOF6Edyp34pwdTOSVQ" mandatoryInput="_Q5Ki8OF8Edyp34pwdTOSVQ" output="__uNYkPVgEdyMdecrgpMbRg" additionallyPerformedBy="_Bw-twOF6Edyp34pwdTOSVQ" toolMentors="_WEaNUOCyEemze6-SS1p82Q _SQB_8OC2Eemze6-SS1p82Q">
             <methodElementProperty xmi:id="_bn2UkN7tEem1Xq0G0c0Etg" name="me_edited" value="true"/>
             <presentation xmi:id="-mLzJeXs-dRHlJfYjbu-sLg" href="uma://-mLzJeXs-dRHlJfYjbu-sLg#-mLzJeXs-dRHlJfYjbu-sLg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_WEaNUOCyEemze6-SS1p82Q" name="ferramenta_de_versionamento" guid="_WEaNUOCyEemze6-SS1p82Q" presentationName="Ferramenta de versionamento">
+            <methodElementProperty xmi:id="_2eWJEOCyEemze6-SS1p82Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-4fTavxlPYaWZEc5R2_RLPg" href="uma://-4fTavxlPYaWZEc5R2_RLPg#-4fTavxlPYaWZEc5R2_RLPg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_SQB_8OC2Eemze6-SS1p82Q" name="ferramentas_de_desenvolvimento" guid="_SQB_8OC2Eemze6-SS1p82Q" presentationName="Ferramentas de Desenvolvimento">
+            <methodElementProperty xmi:id="_pdvcsOC2Eemze6-SS1p82Q" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
       </childPackages>
