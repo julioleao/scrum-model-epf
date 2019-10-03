@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-O_8IEBkhdGonw_lO_b2q3w" name="new_tool,_lPU4UOCyEemze6-SS1p82Q" guid="-O_8IEBkhdGonw_lO_b2q3w" changeDate="2019-09-26T20:08:49.317-0300">
+  <mainDescription>&lt;p>&#xD;
+    Segundo&amp;nbsp;&quot;tableless.com.br&quot;, Git é um sistema de controle de versão de arquivos. Através deles podemos desenvolver&#xD;
+    projetos na qual diversas pessoas podem contribuir simultaneamente no mesmo, editando e criando novos arquivos e&#xD;
+    permitindo que os mesmos possam existir sem o risco de suas alterações serem sobrescritas.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Nosso repositório online para acesso será: &lt;a&#xD;
+    href=&quot;https://github.com/julioleao/produto-ger-config&quot;>https://github.com/julioleao/produto-ger-config&lt;/a>&amp;nbsp;&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>
