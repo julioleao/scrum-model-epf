@@ -9,23 +9,21 @@
 &lt;/p>&#xD;
 &lt;p>&#xD;
     Após a realização da reunião de planejamento da sprint, estarão definadas os requisitos a serem implementados,&#xD;
-    possíveis melhorias ou bugs a serem corrigidos. Com base no backlog da sprint gerada pela reunião&amp;nbsp;serão&#xD;
+    possíveis melhorias ou bugs a serem corrigidos. Com base no backlog da sprint gerada ao final da reunião&amp;nbsp;serão&#xD;
     definidos&amp;nbsp;os desenvolvedores responsáveis por cada alteração no produto. Os desenvolvedores definidos deverão&#xD;
     utilizar seus respectivos forks&amp;nbsp;gerados para criar branchs relativas a&amp;nbsp;funcionalidade no qual ficou&#xD;
-    responsável por implementar e começar a realização do desenvolvimento e os testes unitários&amp;nbsp;do incremento que o&#xD;
-    mesmo está desenvolvendo.&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    Dentro do fork gerado serão criadas as branchs relativas a cada&amp;nbsp;funcinalidade a medida que&#xD;
-    forem&amp;nbsp;sendo&amp;nbsp;implementadas, conforme forem surgindo novas requisições de clientes, bugs a serem corrigidos ou&#xD;
-    melhorias adicionais, novas branchs deverão surgir para implementar as mudanças. Ao final de uma sprint, as branchs&#xD;
-    criadas contendo mudanças no produto serão adicionadas a master através de um merge, gerando uma nova versão do&#xD;
-    sistema, utilizando como nomenclatura das releases&amp;nbsp;o padrão SemVer que pode ser encontrado no site &lt;a&#xD;
-    href=&quot;https://semver.org/&quot;>&lt;u>&lt;font color=&quot;#0066cc&quot;>https://semver.org/&lt;/font>&lt;/u>&lt;/a>.&#xD;
+    responsável por implementar e começar a realização do desenvolvimento durante os 7 dias da sprint, não&#xD;
+    esquecendo&amp;nbsp;dos testes.&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
     Durante a implementação, o próprio desenvolvedor será responsável por realizar os testes unitários&amp;nbsp;do incremento&#xD;
-    que o mesmo está desenvolvendo, caso os testes forem bem sucedidos ao serem executados&amp;nbsp;e antes de uma release,&#xD;
-    teremos um desenvolvedor que será o responsável por fazer o merge de todas as branchs.&#xD;
+    que o mesmo está desenvolvendo, obtendo resultados positivos ao serem executados.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    No termino da sprint, nas etapas de revisão e retrospectiva,&amp;nbsp;será feita a análise das alterações realizadas, caso&#xD;
+    tudo estaja em ordem as branchs criadas contendo mudanças no produto serão adicionadas a master através de um merge,&#xD;
+    teremos um&amp;nbsp;membro responsável por realizar esta ação. Feito o merge será gerado uma nova versão do sistema,&amp;nbsp;a&#xD;
+    nomenclatura das releases seguirão&amp;nbsp;o padrão SemVer que pode ser encontrado no site &lt;a&#xD;
+    href=&quot;https://semver.org/&quot;>&lt;u>&lt;font color=&quot;#0066cc&quot;>https://semver.org/&lt;/font>&lt;/u>&lt;/a>.&#xD;
 &lt;/p></mainDescription>
 </org.eclipse.epf.uma:ContentDescription>
