@@ -23,7 +23,8 @@
     No termino da sprint, nas etapas de revisão e retrospectiva,&amp;nbsp;será feita a análise das alterações realizadas, caso&#xD;
     tudo estaja em ordem as branchs criadas contendo mudanças no produto serão adicionadas a master através de um merge,&#xD;
     teremos um&amp;nbsp;membro responsável por realizar esta ação. Feito o merge será gerado uma nova versão do sistema,&amp;nbsp;a&#xD;
-    nomenclatura das releases seguirão&amp;nbsp;o padrão SemVer que pode ser encontrado no site &lt;a&#xD;
-    href=&quot;https://semver.org/&quot;>&lt;u>&lt;font color=&quot;#0066cc&quot;>https://semver.org/&lt;/font>&lt;/u>&lt;/a>.&#xD;
+    nomenclatura das releases seguirão&amp;nbsp;o padrão SemVer que pode ser encontrado no link: &lt;a&#xD;
+    href=&quot;https://pt.stackoverflow.com/questions/287871/como-fazer-o-versionamento-sem%C3%A2ntico-semver-com-o-git&quot;>&lt;u>&lt;font&#xD;
+     color=&quot;#0066cc&quot;>https://pt.stackoverflow.com/questions/287871/como-fazer-o-versionamento-sem%C3%A2ntico-semver-com-o-git&lt;/font>&lt;/u>&lt;/a>.&#xD;
 &lt;/p></mainDescription>
 </org.eclipse.epf.uma:ContentDescription>
