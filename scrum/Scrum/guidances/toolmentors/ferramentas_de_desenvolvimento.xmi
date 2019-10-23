@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ZfFmwHIWs7N8IVCbSuz5AA" name="ferramentas_de_desenvolvimento,_SQB_8OC2Eemze6-SS1p82Q" guid="-ZfFmwHIWs7N8IVCbSuz5AA" changeDate="2019-10-20T15:29:23.125-0300">
+  <mainDescription>&lt;p>&#xD;
+    Ferramentas a serem utilizadas no desenvolvimento do produto de software, serão:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;a&#xD;
+    id=&quot;A_-_-_C:/Users/julio/Documents/scrum-model-epf/scrum/Scrum/guidances/toolmentors/visual_studio_code_F4591724.html:.:.:A_-_-_C:/Users/julio/Documents/scrum-model-epf/scrum/Scrum/guidances/toolmentors/visual_studio_code_F4591724.html:.:.:A_-_-_C:/Users/julio/Documents/scrum-model-epf/scrum/Scrum/guidances/toolmentors/visual_studio_code_F4591724.html:.:.:&quot;&#xD;
+     class=&quot;elementLink&quot; href=&quot;./../../../Scrum/guidances/toolmentors/visual_studio_code_F4591724.html&quot;&#xD;
+    guid=&quot;_zi5iAPKBEemKOast97eFUA&quot;>Visual Studio Code&lt;/a> &lt;strong>x64 build 1.39.2&lt;br />&#xD;
+    Apache&lt;/strong> &lt;a class=&quot;elementLink&quot; href=&quot;./../../../Scrum/guidances/toolmentors/netbeans_75212B9D.html&quot;&#xD;
+    guid=&quot;_-xsVsPKBEemKOast97eFUA&quot;>NetBeans&lt;/a>&lt;strong>&amp;nbsp;11.1&lt;br />&#xD;
+    &lt;/strong>&lt;a class=&quot;elementLink&quot; href=&quot;./../../../Scrum/guidances/toolmentors/postgresql_246F7499.html&quot;&#xD;
+    guid=&quot;_Bp-xcPKCEemKOast97eFUA&quot;>PostgreSQL&lt;/a>&lt;strong>10.10&lt;br />&#xD;
+    &lt;/strong>&lt;a class=&quot;elementLink&quot; href=&quot;./../../../Scrum/guidances/toolmentors/payara_9C36119F.html&quot;&#xD;
+    guid=&quot;_DQAUEPKCEemKOast97eFUA&quot;>Payara&lt;/a> &lt;strong>Micro 193&lt;br />&#xD;
+    &lt;/strong>&lt;b style=&quot;FONT-WEIGHT: normal&quot;>Navegador de Internet&lt;/b>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

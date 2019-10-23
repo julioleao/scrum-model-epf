@@ -32,6 +32,11 @@
     <resourceDescriptors xmi:id="_k0gkkOCyEemze6-SS1p82Q" id="-4fTavxlPYaWZEc5R2_RLPg" uri="guidances/toolmentors/ferramenta_de_versionamento.xmi"/>
     <resourceDescriptors xmi:id="_2eKi4OCyEemze6-SS1p82Q" id="-O_8IEBkhdGonw_lO_b2q3w" uri="tools/git.xmi"/>
     <resourceDescriptors xmi:id="_mBrlgOC2Eemze6-SS1p82Q" id="-Sk-Kxmw4GAxVQ-9NjLtblQ" uri="tools/netbeans.xmi"/>
+    <resourceDescriptors xmi:id="_VlKAEPJ6EemKOast97eFUA" id="-b8Ov6Zl-sKTZCNH20Pm6fQ" uri="guidances/guidelines/reuniao_diaria.xmi"/>
+    <resourceDescriptors xmi:id="_VlU_MPJ6EemKOast97eFUA" id="-rox3LQd7QYAtu4PBU62vcA" uri="guidances/toolmentors/slack.xmi"/>
+    <resourceDescriptors xmi:id="_nMBr8PKBEemKOast97eFUA" id="-ZfFmwHIWs7N8IVCbSuz5AA" uri="guidances/toolmentors/ferramentas_de_desenvolvimento.xmi"/>
+    <resourceDescriptors xmi:id="_duRfkPNnEemMrOYqZFYK0Q" id="-1K1MfvZq2Omziunq0M-0GQ" uri="guidances/toolmentors/postgresql.xmi"/>
+    <resourceDescriptors xmi:id="_duZbYPNnEemMrOYqZFYK0Q" id="-59AsDpzids_M9VF2u7qGYA" uri="guidances/toolmentors/payara.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_6Ab_EOF4Edyp34pwdTOSVQ" name="Scrum" guid="_6Ab_EOF4Edyp34pwdTOSVQ" briefDescription="Plug-In Scrum" authors="Mike Cohn, Ken Clyne, Claude Aubry et al" changeDate="2008-07-30T14:49:30.453-0300">
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6Ab_EeF4Edyp34pwdTOSVQ" name="Content" guid="_6Ab_EeF4Edyp34pwdTOSVQ">
@@ -106,7 +111,7 @@
             <methodElementProperty xmi:id="_rpC_AMqvEemtS8Y1qYM6NA" name="me_edited" value="true"/>
             <presentation xmi:id="-pG2ESbyFiJiYPp8g3_H-Ow" href="uma://-pG2ESbyFiJiYPp8g3_H-Ow#-pG2ESbyFiJiYPp8g3_H-Ow"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_oSM0AOF-Edyp34pwdTOSVQ" name="Reuniao diaria" guid="_oSM0AOF-Edyp34pwdTOSVQ" presentationName="Reuniao diaria" briefDescription="Daily Scrum é uma reunião rápida com todos os membros do Scrum Team e o Scrum Master." performedBy="_O65KUOF6Edyp34pwdTOSVQ" mandatoryInput="_rU4H4F8fEd22Gu98eFOlrQ" output="_rU4H4F8fEd22Gu98eFOlrQ _Q5Ki8OF8Edyp34pwdTOSVQ" additionallyPerformedBy="_Bw-twOF6Edyp34pwdTOSVQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_oSM0AOF-Edyp34pwdTOSVQ" name="Reuniao diaria" guid="_oSM0AOF-Edyp34pwdTOSVQ" presentationName="Reuniao diaria" briefDescription="Daily Scrum é uma reunião rápida com todos os membros do Scrum Team e o Scrum Master." guidelines="_D9DoUPJ3EemKOast97eFUA" performedBy="_O65KUOF6Edyp34pwdTOSVQ" mandatoryInput="_rU4H4F8fEd22Gu98eFOlrQ" output="_rU4H4F8fEd22Gu98eFOlrQ _Q5Ki8OF8Edyp34pwdTOSVQ" additionallyPerformedBy="_Bw-twOF6Edyp34pwdTOSVQ">
             <methodElementProperty xmi:id="_rpSPkMqvEemtS8Y1qYM6NA" name="me_edited" value="true"/>
             <presentation xmi:id="-bGl4WDpeag1duq9jSWKwLg" href="uma://-bGl4WDpeag1duq9jSWKwLg#-bGl4WDpeag1duq9jSWKwLg"/>
           </contentElements>
@@ -189,8 +194,31 @@
             <methodElementProperty xmi:id="_2eWJEOCyEemze6-SS1p82Q" name="me_edited" value="true"/>
             <presentation xmi:id="-4fTavxlPYaWZEc5R2_RLPg" href="uma://-4fTavxlPYaWZEc5R2_RLPg#-4fTavxlPYaWZEc5R2_RLPg"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_SQB_8OC2Eemze6-SS1p82Q" name="ferramentas_de_desenvolvimento" guid="_SQB_8OC2Eemze6-SS1p82Q" presentationName="Ferramentas de Desenvolvimento">
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_SQB_8OC2Eemze6-SS1p82Q" name="ferramentas_de_desenvolvimento" guid="_SQB_8OC2Eemze6-SS1p82Q" presentationName="Ferramentas de Desenvolvimento" briefDescription="Ferramentas que irão auxiliar no desenvolvimento do produto de software.">
             <methodElementProperty xmi:id="_pdvcsOC2Eemze6-SS1p82Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-ZfFmwHIWs7N8IVCbSuz5AA" href="uma://-ZfFmwHIWs7N8IVCbSuz5AA#-ZfFmwHIWs7N8IVCbSuz5AA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_D9DoUPJ3EemKOast97eFUA" name="reuniao_diaria" guid="_D9DoUPJ3EemKOast97eFUA" presentationName="Reunião diaria" briefDescription="Reunião diária é uma reunião rápida com todos os membros do Scrum Team e o Scrum Master.">
+            <methodElementProperty xmi:id="_Vk2eEPJ6EemKOast97eFUA" name="me_edited" value="true"/>
+            <presentation xmi:id="-b8Ov6Zl-sKTZCNH20Pm6fQ" href="uma://-b8Ov6Zl-sKTZCNH20Pm6fQ#-b8Ov6Zl-sKTZCNH20Pm6fQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_iVGS4PJ5EemKOast97eFUA" name="slack" guid="_iVGS4PJ5EemKOast97eFUA" presentationName="Slack">
+            <methodElementProperty xmi:id="_VlnTEPJ6EemKOast97eFUA" name="me_edited" value="true"/>
+            <presentation xmi:id="-rox3LQd7QYAtu4PBU62vcA" href="uma://-rox3LQd7QYAtu4PBU62vcA#-rox3LQd7QYAtu4PBU62vcA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_zi5iAPKBEemKOast97eFUA" name="visual_studio_code" guid="_zi5iAPKBEemKOast97eFUA" presentationName="Visual Studio Code">
+            <methodElementProperty xmi:id="_63JLsPKBEemKOast97eFUA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_-xsVsPKBEemKOast97eFUA" name="netbeans" guid="_-xsVsPKBEemKOast97eFUA" presentationName="NetBeans">
+            <methodElementProperty xmi:id="_JlZI0PKCEemKOast97eFUA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_Bp-xcPKCEemKOast97eFUA" name="postgresql" guid="_Bp-xcPKCEemKOast97eFUA" presentationName="PostgreSQL" briefDescription="PostgreSQL é um sistema gerenciador de banco de dados objeto relacional, desenvolvido como projeto de código aberto">
+            <methodElementProperty xmi:id="_JlRNAPKCEemKOast97eFUA" name="me_edited" value="true"/>
+            <presentation xmi:id="-1K1MfvZq2Omziunq0M-0GQ" href="uma://-1K1MfvZq2Omziunq0M-0GQ#-1K1MfvZq2Omziunq0M-0GQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_DQAUEPKCEemKOast97eFUA" name="payara" guid="_DQAUEPKCEemKOast97eFUA" presentationName="Payara" briefDescription="O Payara Server é um servidor de aplicativos de código aberto derivado do GlassFish Server ">
+            <methodElementProperty xmi:id="_JlJRMPKCEemKOast97eFUA" name="me_edited" value="true"/>
+            <presentation xmi:id="-59AsDpzids_M9VF2u7qGYA" href="uma://-59AsDpzids_M9VF2u7qGYA#-59AsDpzids_M9VF2u7qGYA"/>
           </contentElements>
         </childPackages>
       </childPackages>

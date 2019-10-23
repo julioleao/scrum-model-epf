@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-1K1MfvZq2Omziunq0M-0GQ" name="postgresql,_Bp-xcPKCEemKOast97eFUA" guid="-1K1MfvZq2Omziunq0M-0GQ" changeDate="2019-10-20T15:27:59.993-0300">
+  <mainDescription>A versão utilizada do PostgreSQL será a 10.10 (&lt;a&#xD;
+href=&quot;https://www.enterprisedb.com/downloads/postgres-postgresql-downloads&quot;>&lt;u>&lt;font&#xD;
+color=&quot;#0066cc&quot;>https://www.enterprisedb.com/downloads/postgres-postgresql-downloads&lt;/font>&lt;/u>&lt;/a>).&amp;nbsp;</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>
