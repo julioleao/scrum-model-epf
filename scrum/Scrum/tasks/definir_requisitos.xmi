@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-2s7rqJ4dh5O8XXgyD6EF_w" name=",_uar94PWpEemPz6YmpC0uTQ" guid="-2s7rqJ4dh5O8XXgyD6EF_w" changeDate="2019-10-23T12:29:33.346-0300">
+  <mainDescription>&lt;p>&#xD;
+    O &lt;a class=&quot;elementLink&quot; href=&quot;./../../Scrum/roles/product_owner_10E7BD3.html&quot; guid=&quot;_QcnRMOF5Edyp34pwdTOSVQ&quot;>Product&#xD;
+    Owner&lt;/a>&amp;nbsp;junto com a&amp;nbsp;&lt;a class=&quot;elementLink&quot; href=&quot;./../../Scrum/roles/scrum_team_8D8F2B3.html&quot;&#xD;
+    guid=&quot;_O65KUOF6Edyp34pwdTOSVQ&quot;>Scrum Team&lt;/a>&lt;a class=&quot;elementLink&quot; href=&quot;./../../Scrum/roles/scrum_team_8D8F2B3.html&quot;&#xD;
+    guid=&quot;_O65KUOF6Edyp34pwdTOSVQ&quot;>Scrum Team&lt;/a>&amp;nbsp;e o &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../Scrum/roles/scrummaster_357FCB70.html&quot; guid=&quot;_Bw-twOF6Edyp34pwdTOSVQ&quot;>ScrumMaster&lt;/a>&amp;nbsp;irão discutir&#xD;
+    sobre os requisitos e definir os mesmos da seguinte maneira:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Passo 1: Será discutido&amp;nbsp;o que deverá ser implementado.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Passo 2: Isso será dividido em requisitos bem definidos.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

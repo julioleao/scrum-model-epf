@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-qp_tDIfu_8uc2TnGgUlcfQ" name=",_AG3jYPW4EemPz6YmpC0uTQ" guid="-qp_tDIfu_8uc2TnGgUlcfQ" changeDate="2019-10-23T14:11:06.008-0300">
+  <mainDescription>&lt;p>&#xD;
+    A partir do momento em que o backlog do produto foi definido, as sprints serão definidas também.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    O time de desenvolvimento ficará encarregado de realizar tal tarefa, decidindo como dividir a implementação e o&#xD;
+    trabalho.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Isso deverá gerar um documento chamado Guia sprint e todas as sprints e tarefas serão colocadas como cartões no nosso&#xD;
+    Taskboard que será o Trello.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>
