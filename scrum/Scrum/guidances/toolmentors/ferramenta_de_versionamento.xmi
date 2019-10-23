@@ -1,16 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-4fTavxlPYaWZEc5R2_RLPg" name="new_toolmentor,_WEaNUOCyEemze6-SS1p82Q" guid="-4fTavxlPYaWZEc5R2_RLPg" changeDate="2019-10-03T14:42:22.152-0300">
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-4fTavxlPYaWZEc5R2_RLPg" name="new_toolmentor,_WEaNUOCyEemze6-SS1p82Q" guid="-4fTavxlPYaWZEc5R2_RLPg" changeDate="2019-10-23T12:27:13.353-0300">
   <mainDescription>&lt;p>&#xD;
     Nós utilizaremos a ferramenta &lt;a class=&quot;elementLink&quot; href=&quot;./../../../Scrum/tools/git_69FA603B.html&quot;&#xD;
-    guid=&quot;_lPU4UOCyEemze6-SS1p82Q&quot;>Git&lt;/a>&amp;nbsp;para versionar nosso projeto. Um desenvolvedor será responsável por criar o&#xD;
-    repositório master contendo a baseline do nosso projeto e a partir do master serão criadas as branchs relativas a cada&#xD;
-    requisito que for implementado, durante a implementação o próprio desenvolvedor será responsável por realizar os testes&#xD;
-    unitários&amp;nbsp;do incremento que o mesmo está desenvolvendo&amp;nbsp;e antes de uma release teremos um desenvolvedor que&#xD;
-    será o responsável por fazer o merge de todas as branchs.&#xD;
+    guid=&quot;_lPU4UOCyEemze6-SS1p82Q&quot;>Git&lt;/a>&amp;nbsp;para versionar nosso projeto. Cada membro/desenvolvedor&amp;nbsp;terá que&#xD;
+    possui uma conta no Github, um desenvolvedor será responsável por criar o repositório master contendo a baseline do&#xD;
+    nosso projeto. Com&amp;nbsp;o repositório pricipal criado, cada membro&amp;nbsp;fará um fork do repositório master, dessa forma&#xD;
+    cada desenvolvedor irá implementar funcionalidade,&amp;nbsp;não danificando&amp;nbsp;o projeto permanentemente. A&amp;nbsp;partir&#xD;
+    do master serão criadas as branchs relativas a cada&amp;nbsp;funcinalidade que for implementado, conforme forem surgindo&#xD;
+    novas requisições de clientes, bugs a serem corrigidos ou melhoramentos adicionados, novas branchs deverão surgir para&#xD;
+    implementar as mudanças. Ao final de uma sprint, as branchs criadas contendo mudanças no produto serão adicionadas a&#xD;
+    master através de um merge, gerando uma nova versão do sistema, utilizando como nomenclatura das releases&amp;nbsp;o padrão&#xD;
+    SemVer que pode ser encontrado no site &lt;a href=&quot;https://semver.org/&quot;>&lt;u>&lt;font&#xD;
+    color=&quot;#0066cc&quot;>https://semver.org/&lt;/font>&lt;/u>&lt;/a>.&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
-    Cada alteração, correção ou incremento gerará uma nova versão do sistema e para nomear as versões das&#xD;
-    releases&amp;nbsp;utilizaremos o padrão SemVer que pode ser encontrado no site &lt;a href=&quot;https://semver.org/&quot;>&lt;u>&lt;font&#xD;
-    color=&quot;#0066cc&quot;>https://semver.org/&lt;/font>&lt;/u>&lt;/a>.&#xD;
+    Durante a implementação, o próprio desenvolvedor será responsável por realizar os testes unitários&amp;nbsp;do incremento&#xD;
+    que o mesmo está desenvolvendo, caso os testes forem bem sucedidos ao serem executados&amp;nbsp;e antes de uma release,&#xD;
+    teremos um desenvolvedor que será o responsável por fazer o merge de todas as branchs.&#xD;
 &lt;/p></mainDescription>
 </org.eclipse.epf.uma:ContentDescription>
