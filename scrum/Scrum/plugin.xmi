@@ -32,20 +32,17 @@
     <resourceDescriptors xmi:id="_k0gkkOCyEemze6-SS1p82Q" id="-4fTavxlPYaWZEc5R2_RLPg" uri="guidances/toolmentors/ferramenta_de_versionamento.xmi"/>
     <resourceDescriptors xmi:id="_2eKi4OCyEemze6-SS1p82Q" id="-O_8IEBkhdGonw_lO_b2q3w" uri="tools/git.xmi"/>
     <resourceDescriptors xmi:id="_mBrlgOC2Eemze6-SS1p82Q" id="-Sk-Kxmw4GAxVQ-9NjLtblQ" uri="tools/netbeans.xmi"/>
-<<<<<<< HEAD
     <resourceDescriptors xmi:id="_VlKAEPJ6EemKOast97eFUA" id="-b8Ov6Zl-sKTZCNH20Pm6fQ" uri="guidances/guidelines/reuniao_diaria.xmi"/>
     <resourceDescriptors xmi:id="_VlU_MPJ6EemKOast97eFUA" id="-rox3LQd7QYAtu4PBU62vcA" uri="guidances/toolmentors/slack.xmi"/>
     <resourceDescriptors xmi:id="_nMBr8PKBEemKOast97eFUA" id="-ZfFmwHIWs7N8IVCbSuz5AA" uri="guidances/toolmentors/ferramentas_de_desenvolvimento.xmi"/>
     <resourceDescriptors xmi:id="_duRfkPNnEemMrOYqZFYK0Q" id="-1K1MfvZq2Omziunq0M-0GQ" uri="guidances/toolmentors/postgresql.xmi"/>
     <resourceDescriptors xmi:id="_duZbYPNnEemMrOYqZFYK0Q" id="-59AsDpzids_M9VF2u7qGYA" uri="guidances/toolmentors/payara.xmi"/>
-=======
     <resourceDescriptors xmi:id="_T9uhcPWqEemPz6YmpC0uTQ" id="-2s7rqJ4dh5O8XXgyD6EF_w" uri="tasks/definir_requisitos.xmi"/>
     <resourceDescriptors xmi:id="_zuGi0PWqEemPz6YmpC0uTQ" id="-DMmPXi8XA74Gxt9CRUGniQ" uri="tasks/gerar_backlog.xmi"/>
     <resourceDescriptors xmi:id="_uAO4sPW4EemPz6YmpC0uTQ" id="-qp_tDIfu_8uc2TnGgUlcfQ" uri="tasks/definir_todas_as_sprints.xmi"/>
     <resourceDescriptors xmi:id="_uAhzoPW4EemPz6YmpC0uTQ" id="-OKRdH1-ieh1MNjPXN-0kWg" uri="workproducts/guia_das_sprints.xmi"/>
     <resourceDescriptors xmi:id="_uAnTMPW4EemPz6YmpC0uTQ" id="-alu7e6TPw7IJxh7dFmM3Pg" uri="tasks/confirmar_as_sprints.xmi"/>
     <resourceDescriptors xmi:id="_R7uPoPW5EemPz6YmpC0uTQ" id="-3ZzDjkHrtjKLO-za201FIw" uri="workproducts/requisitos_iniciais.xmi"/>
->>>>>>> 493de19f80b994a16b521d5510e4ea9238c48546
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_6Ab_EOF4Edyp34pwdTOSVQ" name="Scrum" guid="_6Ab_EOF4Edyp34pwdTOSVQ" briefDescription="Plug-In Scrum" authors="Mike Cohn, Ken Clyne, Claude Aubry et al" changeDate="2008-07-30T14:49:30.453-0300">
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6Ab_EeF4Edyp34pwdTOSVQ" name="Content" guid="_6Ab_EeF4Edyp34pwdTOSVQ">
