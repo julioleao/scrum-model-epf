@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-laHO9FuqAf8buiaYU0V9XQ" name="new_toolmentor,_eeddwPaFEemIc_TSlZbldQ" guid="-laHO9FuqAf8buiaYU0V9XQ" changeDate="2019-10-24T14:41:34.502-0300">
+  <mainDescription>&lt;p>&#xD;
+    O Google Docs, é um pacote de aplicativos do Google baseado em AJAX. As ferramentas do Google Docs funciona de forma&#xD;
+    síncrona e assíncrona, portanto, on-line para acessar dados em nuvens e off-line através de aplicativos de extensão&#xD;
+    instaladas diretamente do google, onde há bancos de dados criados por essa extensão para posterior sincronização&#xD;
+    através de upload instantâneo ao acessá-los online, diretamente no browser de desktops ou aplicativos de dispositivos&#xD;
+    móveis do Android e iOS.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

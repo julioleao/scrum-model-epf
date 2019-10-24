@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-DMmPXi8XA74Gxt9CRUGniQ" name=",_dRQiUPWqEemPz6YmpC0uTQ" guid="-DMmPXi8XA74Gxt9CRUGniQ" changeDate="2019-10-23T12:35:09.420-0300">
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-DMmPXi8XA74Gxt9CRUGniQ" name=",_dRQiUPWqEemPz6YmpC0uTQ" guid="-DMmPXi8XA74Gxt9CRUGniQ" changeDate="2019-10-24T14:43:40.744-0300">
   <mainDescription>O &lt;a class=&quot;elementLink&quot; href=&quot;./../../Scrum/roles/scrum_team_8D8F2B3.html&quot; guid=&quot;_O65KUOF6Edyp34pwdTOSVQ&quot;>Scrum&#xD;
 Team&lt;/a>&amp;nbsp;irá estudar os requisitos e gerar um &lt;a class=&quot;elementLink&quot;&#xD;
 href=&quot;./../../Scrum/workproducts/product_backlog_68345C16.html&quot; guid=&quot;_OZIPIOF8Edyp34pwdTOSVQ&quot;>Product Backlog&lt;/a>&amp;nbsp;que&#xD;
-será uma tabela criada no editor de texto Docs do Google.</mainDescription>
+será uma tabela criada no editor de texto &lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../Scrum/guidances/toolmentors/google_docs_3287E3B9.html&quot; guid=&quot;_eeddwPaFEemIc_TSlZbldQ&quot;>Google Docs&lt;/a>.</mainDescription>
 </org.eclipse.epf.uma:TaskDescription>

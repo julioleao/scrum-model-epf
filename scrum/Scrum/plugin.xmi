@@ -44,6 +44,7 @@
     <resourceDescriptors xmi:id="_XoBggPZ8EemplNTo0XOVIQ" id="-2CM-LO3t_7CeBvKnmkEhWQ" uri="guidances/guidelines/baseline.xmi"/>
     <resourceDescriptors xmi:id="_YVIr4PaBEemplNTo0XOVIQ" id="-nTOdIwRRJTD11SNzRCqZRg" uri="guidances/toolmentors/git.xmi"/>
     <resourceDescriptors xmi:id="_YVLIIPaBEemplNTo0XOVIQ" id="-XBpn-ehjYKGJLnwh-I_9Ag" uri="guidances/toolmentors/netbeans.xmi"/>
+    <resourceDescriptors xmi:id="_1IFWAPaFEemIc_TSlZbldQ" id="-laHO9FuqAf8buiaYU0V9XQ" uri="guidances/toolmentors/google_docs.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_6Ab_EOF4Edyp34pwdTOSVQ" name="Scrum" guid="_6Ab_EOF4Edyp34pwdTOSVQ" briefDescription="Plug-In Scrum" authors="Mike Cohn, Ken Clyne, Claude Aubry et al" changeDate="2008-07-30T14:49:30.453-0300">
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6Ab_EeF4Edyp34pwdTOSVQ" name="Content" guid="_6Ab_EeF4Edyp34pwdTOSVQ">
@@ -253,6 +254,10 @@
           <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_Tz7xkPaBEemplNTo0XOVIQ" name="netbeans" guid="_Tz7xkPaBEemplNTo0XOVIQ" presentationName="Netbeans">
             <methodElementProperty xmi:id="_YVcN4PaBEemplNTo0XOVIQ" name="me_edited" value="true"/>
             <presentation xmi:id="-XBpn-ehjYKGJLnwh-I_9Ag" href="uma://-XBpn-ehjYKGJLnwh-I_9Ag#-XBpn-ehjYKGJLnwh-I_9Ag"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_eeddwPaFEemIc_TSlZbldQ" name="google_docs" guid="_eeddwPaFEemIc_TSlZbldQ" presentationName="Google Docs">
+            <methodElementProperty xmi:id="_1H8MEPaFEemIc_TSlZbldQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-laHO9FuqAf8buiaYU0V9XQ" href="uma://-laHO9FuqAf8buiaYU0V9XQ#-laHO9FuqAf8buiaYU0V9XQ"/>
           </contentElements>
         </childPackages>
       </childPackages>
