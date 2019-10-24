@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-OKRdH1-ieh1MNjPXN-0kWg" name="new_artifact,_Uvbi0PW4EemPz6YmpC0uTQ" guid="-OKRdH1-ieh1MNjPXN-0kWg" changeDate="2019-10-23T14:15:30.525-0300">
+  <mainDescription>Um documento de texto no Google docs contendo cada sprint, suas tarefas e como realizá-las de forma breve.</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

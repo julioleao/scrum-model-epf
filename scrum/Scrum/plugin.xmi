@@ -32,11 +32,20 @@
     <resourceDescriptors xmi:id="_k0gkkOCyEemze6-SS1p82Q" id="-4fTavxlPYaWZEc5R2_RLPg" uri="guidances/toolmentors/ferramenta_de_versionamento.xmi"/>
     <resourceDescriptors xmi:id="_2eKi4OCyEemze6-SS1p82Q" id="-O_8IEBkhdGonw_lO_b2q3w" uri="tools/git.xmi"/>
     <resourceDescriptors xmi:id="_mBrlgOC2Eemze6-SS1p82Q" id="-Sk-Kxmw4GAxVQ-9NjLtblQ" uri="tools/netbeans.xmi"/>
+<<<<<<< HEAD
     <resourceDescriptors xmi:id="_VlKAEPJ6EemKOast97eFUA" id="-b8Ov6Zl-sKTZCNH20Pm6fQ" uri="guidances/guidelines/reuniao_diaria.xmi"/>
     <resourceDescriptors xmi:id="_VlU_MPJ6EemKOast97eFUA" id="-rox3LQd7QYAtu4PBU62vcA" uri="guidances/toolmentors/slack.xmi"/>
     <resourceDescriptors xmi:id="_nMBr8PKBEemKOast97eFUA" id="-ZfFmwHIWs7N8IVCbSuz5AA" uri="guidances/toolmentors/ferramentas_de_desenvolvimento.xmi"/>
     <resourceDescriptors xmi:id="_duRfkPNnEemMrOYqZFYK0Q" id="-1K1MfvZq2Omziunq0M-0GQ" uri="guidances/toolmentors/postgresql.xmi"/>
     <resourceDescriptors xmi:id="_duZbYPNnEemMrOYqZFYK0Q" id="-59AsDpzids_M9VF2u7qGYA" uri="guidances/toolmentors/payara.xmi"/>
+=======
+    <resourceDescriptors xmi:id="_T9uhcPWqEemPz6YmpC0uTQ" id="-2s7rqJ4dh5O8XXgyD6EF_w" uri="tasks/definir_requisitos.xmi"/>
+    <resourceDescriptors xmi:id="_zuGi0PWqEemPz6YmpC0uTQ" id="-DMmPXi8XA74Gxt9CRUGniQ" uri="tasks/gerar_backlog.xmi"/>
+    <resourceDescriptors xmi:id="_uAO4sPW4EemPz6YmpC0uTQ" id="-qp_tDIfu_8uc2TnGgUlcfQ" uri="tasks/definir_todas_as_sprints.xmi"/>
+    <resourceDescriptors xmi:id="_uAhzoPW4EemPz6YmpC0uTQ" id="-OKRdH1-ieh1MNjPXN-0kWg" uri="workproducts/guia_das_sprints.xmi"/>
+    <resourceDescriptors xmi:id="_uAnTMPW4EemPz6YmpC0uTQ" id="-alu7e6TPw7IJxh7dFmM3Pg" uri="tasks/confirmar_as_sprints.xmi"/>
+    <resourceDescriptors xmi:id="_R7uPoPW5EemPz6YmpC0uTQ" id="-3ZzDjkHrtjKLO-za201FIw" uri="workproducts/requisitos_iniciais.xmi"/>
+>>>>>>> 493de19f80b994a16b521d5510e4ea9238c48546
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_6Ab_EOF4Edyp34pwdTOSVQ" name="Scrum" guid="_6Ab_EOF4Edyp34pwdTOSVQ" briefDescription="Plug-In Scrum" authors="Mike Cohn, Ken Clyne, Claude Aubry et al" changeDate="2008-07-30T14:49:30.453-0300">
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6Ab_EeF4Edyp34pwdTOSVQ" name="Content" guid="_6Ab_EeF4Edyp34pwdTOSVQ">
@@ -219,6 +228,30 @@
           <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_DQAUEPKCEemKOast97eFUA" name="payara" guid="_DQAUEPKCEemKOast97eFUA" presentationName="Payara" briefDescription="O Payara Server é um servidor de aplicativos de código aberto derivado do GlassFish Server ">
             <methodElementProperty xmi:id="_JlJRMPKCEemKOast97eFUA" name="me_edited" value="true"/>
             <presentation xmi:id="-59AsDpzids_M9VF2u7qGYA" href="uma://-59AsDpzids_M9VF2u7qGYA#-59AsDpzids_M9VF2u7qGYA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_uar94PWpEemPz6YmpC0uTQ" name="definir_requisitos" guid="_uar94PWpEemPz6YmpC0uTQ" presentationName="Definir Requisitos" briefDescription="Os requisitos que deverão ser implementados serão discutidos." performedBy="_QcnRMOF5Edyp34pwdTOSVQ" mandatoryInput="_OcTgQPWqEemPz6YmpC0uTQ" output="_OcTgQPWqEemPz6YmpC0uTQ" additionallyPerformedBy="_O65KUOF6Edyp34pwdTOSVQ _Bw-twOF6Edyp34pwdTOSVQ">
+            <methodElementProperty xmi:id="_b4jC8PWqEemPz6YmpC0uTQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-2s7rqJ4dh5O8XXgyD6EF_w" href="uma://-2s7rqJ4dh5O8XXgyD6EF_w#-2s7rqJ4dh5O8XXgyD6EF_w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_OcTgQPWqEemPz6YmpC0uTQ" name="requisitos_iniciais" guid="_OcTgQPWqEemPz6YmpC0uTQ" presentationName="Requisitos iniciais">
+            <methodElementProperty xmi:id="_WEv4UPWqEemPz6YmpC0uTQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-3ZzDjkHrtjKLO-za201FIw" href="uma://-3ZzDjkHrtjKLO-za201FIw#-3ZzDjkHrtjKLO-za201FIw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_dRQiUPWqEemPz6YmpC0uTQ" name="gerar_backlog" guid="_dRQiUPWqEemPz6YmpC0uTQ" presentationName="Gerar Backlog" briefDescription="Será gerado o backlog do produto" performedBy="_O65KUOF6Edyp34pwdTOSVQ" mandatoryInput="_OcTgQPWqEemPz6YmpC0uTQ" optionalInput="_OZIPIOF8Edyp34pwdTOSVQ">
+            <methodElementProperty xmi:id="_zt_OEPWqEemPz6YmpC0uTQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-DMmPXi8XA74Gxt9CRUGniQ" href="uma://-DMmPXi8XA74Gxt9CRUGniQ#-DMmPXi8XA74Gxt9CRUGniQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_AG3jYPW4EemPz6YmpC0uTQ" name="definir_todas_as_sprints" guid="_AG3jYPW4EemPz6YmpC0uTQ" presentationName="Definir todas as sprints" performedBy="_O65KUOF6Edyp34pwdTOSVQ" mandatoryInput="_OZIPIOF8Edyp34pwdTOSVQ" optionalInput="_Uvbi0PW4EemPz6YmpC0uTQ _rU4H4F8fEd22Gu98eFOlrQ">
+            <methodElementProperty xmi:id="_7BRGEPW4EemPz6YmpC0uTQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-qp_tDIfu_8uc2TnGgUlcfQ" href="uma://-qp_tDIfu_8uc2TnGgUlcfQ#-qp_tDIfu_8uc2TnGgUlcfQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Uvbi0PW4EemPz6YmpC0uTQ" name="guia_das_sprints" guid="_Uvbi0PW4EemPz6YmpC0uTQ" presentationName="Guia das sprints">
+            <methodElementProperty xmi:id="_uAIyEPW4EemPz6YmpC0uTQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-OKRdH1-ieh1MNjPXN-0kWg" href="uma://-OKRdH1-ieh1MNjPXN-0kWg#-OKRdH1-ieh1MNjPXN-0kWg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_dsx4UPW4EemPz6YmpC0uTQ" name="confirmar_as_sprints" guid="_dsx4UPW4EemPz6YmpC0uTQ" presentationName="Confirmar as sprints">
+            <methodElementProperty xmi:id="_7Ayk8PW4EemPz6YmpC0uTQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-alu7e6TPw7IJxh7dFmM3Pg" href="uma://-alu7e6TPw7IJxh7dFmM3Pg#-alu7e6TPw7IJxh7dFmM3Pg"/>
           </contentElements>
         </childPackages>
       </childPackages>
