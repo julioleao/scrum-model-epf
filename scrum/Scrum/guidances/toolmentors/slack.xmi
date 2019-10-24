@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-rox3LQd7QYAtu4PBU62vcA" name="new_toolmentor,_iVGS4PJ5EemKOast97eFUA" guid="-rox3LQd7QYAtu4PBU62vcA" changeDate="2019-10-19T11:08:27.049-0300">
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-rox3LQd7QYAtu4PBU62vcA" name="new_toolmentor,_iVGS4PJ5EemKOast97eFUA" guid="-rox3LQd7QYAtu4PBU62vcA" changeDate="2019-10-24T13:57:29.314-0300">
   <mainDescription>É uma plataforma de comunicação interna para empresas, abrangente e com funcionalidades que lembram um chat que também faz&#xD;
 chamadas em vídeo, só que com muito mais capacidade de customização e interação entre os participantes, além de comandos&#xD;
 ágeis e facilidade para compartilhar os mais diversos tipos de arquivos. É possível criar times, canais, enviar mensagens&#xD;
-diretas e compartilhar arquivos. Além de poder integrar com outras aplicações como Google Drive, OneDrive, Github.</mainDescription>
+diretas e compartilhar arquivos. Além de poder integrar com outras aplicações como Google Drive, Trello, Github.</mainDescription>
 </org.eclipse.epf.uma:ContentDescription>

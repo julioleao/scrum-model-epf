@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-mLzJeXs-dRHlJfYjbu-sLg" name=",_OPArMN7tEem1Xq0G0c0Etg" guid="-mLzJeXs-dRHlJfYjbu-sLg" changeDate="2019-10-03T15:20:57.342-0300">
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-mLzJeXs-dRHlJfYjbu-sLg" name=",_OPArMN7tEem1Xq0G0c0Etg" guid="-mLzJeXs-dRHlJfYjbu-sLg" changeDate="2019-10-24T13:28:22.764-0300">
   <mainDescription>&lt;p>&#xD;
     &lt;span&#xD;
     style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
@@ -8,12 +8,54 @@
     lembrando de registrar as dificuldades encontradas.&lt;/span>&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
+    Nós utilizaremos a ferramenta &lt;a class=&quot;elementLink&quot; href=&quot;./../../Scrum/tools/git_69FA603B.html&quot;&#xD;
+    guid=&quot;_lPU4UOCyEemze6-SS1p82Q&quot;>Git&lt;/a>&amp;nbsp;para versionar nosso projeto. Cada membro/desenvolvedor&amp;nbsp;terá que&#xD;
+    possui uma conta no Github, um desenvolvedor, podendo ser o Scrum Master, será responsável por criar o&#xD;
+    repositório&amp;nbsp;contendo a &lt;a class=&quot;elementLink&quot; href=&quot;./../../Scrum/guidances/guidelines/baseline_D03C62D.html&quot;&#xD;
+    guid=&quot;_XnyFYPZ7EemplNTo0XOVIQ&quot;>Baseline&lt;/a> do nosso projeto. Após a realização da reunião de planejamento da sprint,&#xD;
+    estarão definadas os requisitos a serem implementados, possíveis melhorias ou bugs a serem corrigidos. Com base no&#xD;
+    backlog da sprint gerada ao final da reunião serão definidos os desenvolvedores responsáveis por cada alteração no&#xD;
+    produto.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Com&amp;nbsp;o repositório principal criado, cada membro&amp;nbsp;fará um fork do repositório master, dessa forma cada&#xD;
+    desenvolvedor poderá&amp;nbsp;implementar funcionalidades sem&amp;nbsp;danificar&amp;nbsp;o projeto permanentemente.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    A partir de cada Fork, o desenvolvedor deverá criar suas branchs de acordo com as necessidades do projeto, ou seja,&#xD;
+    caso surja um novo requisito que tenha uma maior mudança nas funionalidades por exemplo.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Após realizada toda modificação necessária e atendido aos requisitos, a branch modificada poderá ser fundida (merge)&#xD;
+    com a branch master, o qual consta nossa baseline, como tratamos apenas de um cliente, não há a necessidade de criarmos&#xD;
+    uma nova Branch para publicar os &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../Scrum/guidances/termdefinitions/release_7F67A94C.html&quot; guid=&quot;_veyn115UEd22Gu98eFOlrQ&quot;>Release&lt;/a>s, sendo&#xD;
+    assim, a master contaram com a versão mais estável do produto.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Feito isso, fundir as branchs, será necessário o lançamento de um Release, para isso um&amp;nbsp;membro da&#xD;
+    equipe&amp;nbsp;ficará responsável por tal tarefa, através do versionamento&amp;nbsp;Semântico (SemVer), o mesmo deverá citar&#xD;
+    quais as mudanças e acréscimos foram afetuados no produto, através de um changlog pelo próprio GitHub, conforme consta&#xD;
+    a imagem abaixo:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;b id=&quot;docs-internal-guid-ae7621c7-7fff-3117-316c-6ad88828019b&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
     &lt;span&#xD;
-    style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
-    Vide &lt;a class=&quot;elementLink&quot; href=&quot;./../../Scrum/guidances/toolmentors/ferramenta_de_versionamento_95537EB3.html&quot;&#xD;
-    guid=&quot;_WEaNUOCyEemze6-SS1p82Q&quot;>Ferramenta de versionamento&lt;/a>&amp;nbsp;para saber como iremos versionar e utilizar a&#xD;
-    ferramenta em nosso projeto.&lt;/span>&#xD;
-&lt;/p></mainDescription>
+    style=&quot;OVERFLOW: hidden; BORDER-TOP: medium none; HEIGHT: 336px; BORDER-RIGHT: medium none; WIDTH: 934px; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; DISPLAY: inline-block&quot;>&#xD;
+    &lt;img style=&quot;MARGIN-TOP: 0px; MARGIN-LEFT: 0px&quot;&#xD;
+    src=&quot;https://lh5.googleusercontent.com/HbUXvciaNI8fi1o2SGmHO30zuooRcqwtbXlhQzvf6oWr-UYLERc9L8XWYJqDMroWVNfuvI373hRsKusooXAPASoYsGGeoEAyiuj-0H6RYgOBnxqvdQ9y2ZiF0tNzHckRAHWL5GPH&quot;&#xD;
+     width=&quot;934&quot; height=&quot;336&quot; />&lt;/span>&lt;/span>&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Durante a implementação, o próprio desenvolvedor será responsável por realizar os testes unitários&amp;nbsp;do incremento&#xD;
+    que o mesmo está desenvolvendo, obtendo resultados positivos ao serem executados.&#xD;
+&lt;/p>&#xD;
+&lt;br /></mainDescription>
   <purpose>&lt;span&#xD;
 style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
 A tarefa de realizar o desenvolvimento engloba tudo o que os desenvolvedores farão para entregar um incremento do software&#xD;
