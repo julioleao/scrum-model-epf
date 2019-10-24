@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Y9MccMt6UOaGJFtQWN-pVw" name="new_guideline,_1fvvoMq1EemtS8Y1qYM6NA" guid="-Y9MccMt6UOaGJFtQWN-pVw" changeDate="2019-09-24T14:29:46.305-0300">
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Y9MccMt6UOaGJFtQWN-pVw" name="new_guideline,_1fvvoMq1EemtS8Y1qYM6NA" guid="-Y9MccMt6UOaGJFtQWN-pVw" changeDate="2019-10-23T21:40:57.384-0300">
   <mainDescription>&lt;p>&#xD;
     O Business Process Model and Notation (BPMN) (em português Modelo e Notação de Processos de Negócio), anteriormente&#xD;
     conhecido como Business Process Modeling Notation, (em português Notação de Modelagem de Processos de Negócio) é uma&#xD;
@@ -12,15 +12,20 @@
     revisão da Sprint com duração de 1 hora e 30 minutos e retrospectiva do Sprint com 30 minutos. O ciclo volta ao início&#xD;
     caso não tenha finalizado o projeto.&#xD;
 &lt;/p>&#xD;
+&lt;span id=&quot;docs-internal-guid-3ed3d4f1-7fff-3a00-038a-4f42c60f08c5&quot;&#xD;
+style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+&lt;/span>&#xD;
 &lt;p>&#xD;
-    &lt;span id=&quot;docs-internal-guid-f4f7a1dd-7fff-0495-fb55-16d1955a2e21&quot;&#xD;
-    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
     &lt;span&#xD;
-    style=&quot;OVERFLOW: hidden; BORDER-TOP: medium none; HEIGHT: 518px; BORDER-RIGHT: medium none; WIDTH: 968px; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; DISPLAY: inline-block&quot;>&#xD;
-    &lt;img style=&quot;MARGIN-TOP: 0px; MARGIN-LEFT: 0px&quot;&#xD;
-    src=&quot;https://lh4.googleusercontent.com/zUMVSMVWHdiTDIXyzoRghygnbaKxYd-WSMwfImZxt8c6vyh935g_CsHY4RfRoxHPrXKIExn-qwmfhLbVjcSyR6cGBDeR3BNihnqALumcW3RD9s2fpVKQEQWU63yPBssuw_PrIp5x&quot;&#xD;
-     width=&quot;968&quot; height=&quot;518&quot; />&lt;/span>&lt;/span>&#xD;
+    style=&quot;OVERFLOW: hidden; BORDER-TOP: medium none; HEIGHT: 560px; BORDER-RIGHT: medium none; WIDTH: 1059px; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; DISPLAY: inline-block&quot;>&#xD;
+    &lt;img style=&quot;MARGIN-LEFT: 0px; MARGIN-TOP: 0px&quot;&#xD;
+    src=&quot;https://lh5.googleusercontent.com/E5ktwOQZ360KTFU-t-RzhWEuv7Ph8-tonamnyEN_rPMiiugPNo36g-Gma_Nte5atypJTC_IvUBGnCDe_AY_6WqK8au7az7k5mBPdM0C4vYXcGqdsSpJyH9xZqx8lq1FROxzLO8Qr&quot;&#xD;
+     width=&quot;1059&quot; height=&quot;560&quot; />&lt;/span>&#xD;
 &lt;/p>&#xD;
 &lt;br />&#xD;
-&lt;br /></mainDescription>
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    &lt;br />&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p></mainDescription>
 </org.eclipse.epf.uma:ContentDescription>

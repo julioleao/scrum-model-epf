@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-B-d2Wl0Vyk_-I-RwtKzhKQ" name="new_supporting_material,_lC260PVhEdyMdecrgpMbRg" guid="-B-d2Wl0Vyk_-I-RwtKzhKQ" changeDate="2019-09-24T14:18:25.475-0300">
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-B-d2Wl0Vyk_-I-RwtKzhKQ" name="new_supporting_material,_lC260PVhEdyMdecrgpMbRg" guid="-B-d2Wl0Vyk_-I-RwtKzhKQ" changeDate="2019-10-23T21:38:03.394-0300">
   <mainDescription>&lt;p>&#xD;
     No Scrum, os projetos acontecem em uma série de iterações, com um mês de duração, chamadas &lt;em>Sprints&lt;/em>.&#xD;
 &lt;/p>&#xD;
@@ -27,7 +27,7 @@
     style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
     &lt;span&#xD;
     style=&quot;OVERFLOW: hidden; BORDER-TOP: medium none; HEIGHT: 301px; BORDER-RIGHT: medium none; WIDTH: 605px; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; DISPLAY: inline-block&quot;>&#xD;
-    &lt;img style=&quot;MARGIN-TOP: 0px; MARGIN-LEFT: 0px&quot;&#xD;
+    &lt;img style=&quot;MARGIN-LEFT: 0px; MARGIN-TOP: 0px&quot;&#xD;
     src=&quot;https://lh4.googleusercontent.com/YHZi9Nkzch2bRKdd1JaLG7LqGaHIdAmXpj0kmeh5U_HWciPc-xpZSc7kuyTEfSsaPq2U_jQE4lBEC9MH41usrd9mvCr16qFPeyPTMoxQm5w3qUVneMdZZz1bUTHIkkndfG9ZabRE&quot;&#xD;
      width=&quot;605&quot; height=&quot;301&quot; />&lt;/span>&lt;/span>&lt;map id=&quot;Map&quot; name=&quot;Map&quot;>&#xD;
     &lt;/map>&#xD;
@@ -41,22 +41,25 @@
         Nosso BPMN:&#xD;
     &lt;/map>&#xD;
 &lt;/p>&#xD;
-&lt;p>&#xD;
-    &lt;map id=&quot;Map&quot; name=&quot;Map&quot;>&#xD;
-        &lt;img style=&quot;HEIGHT: 634px; WIDTH: 1176px&quot;&#xD;
-        src=&quot;https://lh4.googleusercontent.com/zUMVSMVWHdiTDIXyzoRghygnbaKxYd-WSMwfImZxt8c6vyh935g_CsHY4RfRoxHPrXKIExn-qwmfhLbVjcSyR6cGBDeR3BNihnqALumcW3RD9s2fpVKQEQWU63yPBssuw_PrIp5x&quot;&#xD;
-         width=&quot;1517&quot; height=&quot;814&quot; />&#xD;
-    &lt;/map>&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    &lt;map id=&quot;Map&quot; name=&quot;Map&quot;>&#xD;
-    &lt;/map>&amp;nbsp;&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    &lt;map id=&quot;Map&quot; name=&quot;Map&quot;>&#xD;
+&lt;br />&#xD;
+&lt;map id=&quot;Map&quot; name=&quot;Map&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-3ed3d4f1-7fff-3a00-038a-4f42c60f08c5&quot;&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    &lt;/span>&#xD;
+    &lt;p>&#xD;
+        &lt;span&#xD;
+        style=&quot;OVERFLOW: hidden; BORDER-TOP: medium none; HEIGHT: 560px; BORDER-RIGHT: medium none; WIDTH: 1059px; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; DISPLAY: inline-block&quot;>&#xD;
+        &lt;img style=&quot;MARGIN-LEFT: 0px; MARGIN-TOP: 0px&quot;&#xD;
+        src=&quot;https://lh5.googleusercontent.com/E5ktwOQZ360KTFU-t-RzhWEuv7Ph8-tonamnyEN_rPMiiugPNo36g-Gma_Nte5atypJTC_IvUBGnCDe_AY_6WqK8au7az7k5mBPdM0C4vYXcGqdsSpJyH9xZqx8lq1FROxzLO8Qr&quot;&#xD;
+         width=&quot;1059&quot; height=&quot;560&quot; />&lt;/span>&#xD;
+    &lt;/p>&#xD;
+    &lt;br />&#xD;
+    &lt;p>&#xD;
         Nossa visão estática do processo:&#xD;
-    &lt;/map>&#xD;
-&lt;/p>&#xD;
+    &lt;/p>&#xD;
+&lt;/map>&lt;br />&#xD;
+&lt;br />&#xD;
+ &#xD;
 &lt;p>&#xD;
     &lt;map id=&quot;Map&quot; name=&quot;Map&quot;>&#xD;
     &lt;/map>&amp;nbsp;&#xD;
