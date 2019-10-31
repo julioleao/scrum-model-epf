@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-3ZzDjkHrtjKLO-za201FIw" name="new_artifact,_OcTgQPWqEemPz6YmpC0uTQ" guid="-3ZzDjkHrtjKLO-za201FIw" changeDate="2019-10-23T14:17:27.045-0300">
+  <mainDescription>Requisitos discutidos com o &lt;a class=&quot;elementLink&quot; href=&quot;./../../Scrum/roles/product_owner_10E7BD3.html&quot;&#xD;
+guid=&quot;_QcnRMOF5Edyp34pwdTOSVQ&quot;>Product Owner&lt;/a>&amp;nbsp;de forma simples em um texto corrido, como por exemplo: &quot;O sistema&#xD;
+precisa fazer o cadastro de uma cidade e deve ser obrigatório informar o estado também&quot;.</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

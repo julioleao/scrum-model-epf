@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-b8Ov6Zl-sKTZCNH20Pm6fQ" name="reuniao_diaria,_D9DoUPJ3EemKOast97eFUA" guid="-b8Ov6Zl-sKTZCNH20Pm6fQ" changeDate="2019-10-19T10:48:38.452-0300" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    A reunião terá uma duração de no máximo 15 minutos, que contará com a composição de todos os membros, e onde será&#xD;
+    atribuídas tarefas do &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../Scrum/guidances/termdefinitions/product_backlog_1D56DF61.html&quot; guid=&quot;_veyn1F5UEd22Gu98eFOlrQ&quot;>Product&#xD;
+    Backlog&lt;/a>&amp;nbsp;ao time de desenvolvimento. As tarefas serão distribuídas em ordem de prioridade, da maior para menor,&#xD;
+    ou a pedido do &lt;a class=&quot;elementLink&quot; href=&quot;./../../../Scrum/guidances/termdefinitions/product_owner_168DD387.html&quot;&#xD;
+    guid=&quot;_veyn1l5UEd22Gu98eFOlrQ&quot;>Product Owner&lt;/a>&amp;nbsp;ou &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../Scrum/guidances/termdefinitions/scrum_master_E1E8C180.html&quot;&#xD;
+    guid=&quot;_veyn2F5UEd22Gu98eFOlrQ&quot;>ScrumMaster&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Toda a reunião será documentada através do uso da ferramenta &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../Scrum/guidances/toolmentors/slack_45BB675B.html&quot; guid=&quot;_iVGS4PJ5EemKOast97eFUA&quot;>Slack&lt;/a>, garantindo&#xD;
+    assim a ciência de todos os membros do time e um controle por parte do Scrum Master para futuras auditorias.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

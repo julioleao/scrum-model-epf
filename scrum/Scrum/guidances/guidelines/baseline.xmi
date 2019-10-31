@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-2CM-LO3t_7CeBvKnmkEhWQ" name="new_guideline,_XnyFYPZ7EemplNTo0XOVIQ" guid="-2CM-LO3t_7CeBvKnmkEhWQ" changeDate="2019-10-24T13:29:18.287-0300">
+  <mainDescription>&lt;p>&#xD;
+    Nosso processo contará com&amp;nbsp;uma baseline, desenvolvido em java, o qual ficará localizado em um repositório no&#xD;
+    GitHub, sendo seu &lt;a href=&quot;https://github.com/julioleao/produto-ger-config/releases&quot;>release&lt;/a>&amp;nbsp;inicial&#xD;
+    versionado como 1.0.0, adotando assim as normalizações do&amp;nbsp;&lt;a href=&quot;https://semver.org/&quot;>SemVer&lt;/a>. Nossa baseline&#xD;
+    ficará na branch master. O controle de modificações ficará registrado nos logs do GitHub.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

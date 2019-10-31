@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-alu7e6TPw7IJxh7dFmM3Pg" name=",_dsx4UPW4EemPz6YmpC0uTQ" guid="-alu7e6TPw7IJxh7dFmM3Pg" changeDate="2019-10-24T14:43:11.143-0300">
+  <mainDescription>O &lt;a class=&quot;elementLink&quot; href=&quot;./../../Scrum/roles/scrummaster_357FCB70.html&quot;&#xD;
+guid=&quot;_Bw-twOF6Edyp34pwdTOSVQ&quot;>ScrumMaster&lt;/a>&amp;nbsp;do projeto será encarregado de verificar as sprints e tarefas que a&#xD;
+equipe definiu, para ter certeza de que aquilo está dentro do cronograma e é possível de ser realizado. Será algo bem&#xD;
+simples, no&amp;nbsp;artefato&amp;nbsp;&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../Scrum/workproducts/guia_das_sprints_E1F3BF8C.html&quot; guid=&quot;_Uvbi0PW4EemPz6YmpC0uTQ&quot;>Guia das sprints&lt;/a>&amp;nbsp;o&#xD;
+Scrum master irá escreve &quot;verificado&quot; ao final do documento para que os desenvolvedores saibam que aquilo foi aprovado,&#xD;
+tendo em vista que o &lt;a class=&quot;elementLink&quot; href=&quot;./../../Scrum/guidances/toolmentors/google_docs_3287E3B9.html&quot;&#xD;
+guid=&quot;_eeddwPaFEemIc_TSlZbldQ&quot;>Google Docs&lt;/a> armazena quem fez cada alteração para garantir que a validação só possa ser&#xD;
+feita pelo Scrum Master.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

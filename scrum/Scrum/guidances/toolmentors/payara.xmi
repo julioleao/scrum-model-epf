@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-59AsDpzids_M9VF2u7qGYA" name="payara,_DQAUEPKCEemKOast97eFUA" guid="-59AsDpzids_M9VF2u7qGYA" changeDate="2019-10-20T14:56:21.141-0300">
+  <mainDescription>&lt;p>&#xD;
+    Será utilizado a versão micro 5.193, plugin .jar para netbeans&amp;nbsp;(&lt;a&#xD;
+    href=&quot;https://www.payara.fish/software/payara-server/payara-micro/&quot;>&lt;u>&lt;font&#xD;
+    color=&quot;#0066cc&quot;>https://www.payara.fish/software/payara-server/payara-micro/&lt;/font>&lt;/u>&lt;/a>).&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>
